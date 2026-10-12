@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there! 👋
+My name is Rome Greenmun, and I am a student currently experimenting and learning about GitHub.
+I am currently looking for an internship in Data Science or Statstics.
 <!--
 **romegreenmun/romegreenmun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
